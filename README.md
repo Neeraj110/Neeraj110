@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Frontend Developer** specializing in creating intuitive and visually appealing user interfaces. As a recent graduate, I'm focused on modern web technologies with expertise in **React**, **Next.js**, and **TypeScript**. Currently expanding my full-stack capabilities with the **MERN stack** and integrating **AI solutions** using **Gemini API** to build intelligent web applications.
+I'm a passionate **Frontend Developer** specializing in creating intuitive and visually appealing user interfaces. As a recent graduate, I'm focused on modern web technologies with expertise in **React**, **Next.js**, and **TypeScript**. Currently expanding my full-stack capabilities with the **MERN stack** and integrating **AI solutions** to build intelligent web applications.
 
 **What drives me:** Building pixel-perfect interfaces, exploring cutting-edge technologies, and solving complex problems through clean, efficient code with AI-powered features.
 
@@ -43,10 +43,6 @@ I'm a passionate **Frontend Developer** specializing in creating intuitive and v
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-### AI & APIs
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/AI%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -92,8 +88,3 @@ I'm a passionate **Frontend Developer** specializing in creating intuitive and v
   <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </div>
 
-<div align="center">
-  
-![Snake animation](https://github.com/neeraj110/neeraj110/blob/output/github-contribution-grid-snake.svg)
-
-</div>
