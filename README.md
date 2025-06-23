@@ -1,28 +1,94 @@
-<h1 align="center">Hi 👋, I'm Neeraj Gaur</h1>
-<h3 align="center">Hi! I'm a passionate frontend developer and a soon-to-be graduate currently exploring the ever-evolving world of web development. My main focus is on frontend technologies, where I strive to build intuitive and visually appealing user interfaces. I'm constantly learning and upskilling, diving deep into modern frontend tech stacks. Recently, I've been exploring Next.js, ShadCN, and other extra libraries to enhance my development workflow. While frontend development is my primary strength, I'm also expanding my knowledge of backend technologies, mainly focusing on the MERN (MongoDB, Express, React, Node.js) stack to become a more well-rounded developer. As I step into the professional world, I'm excited to work on challenging projects, collaborate with like-minded developers, and contribute to innovative solutions. Let's build something amazing together!</h3>
+<div align="center">
+  <h1>👋 Hi, I'm Neeraj Gaur</h1>
+  <h3>Frontend Developer | MERN Stack Enthusiast | Recent Graduate</h3>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj110&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj110" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=neeraj110&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neeraj110" alt="neeraj110" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 🚀 About Me
 
-- 👨‍💻 All of my projects are available at [https://www.neerajgaur.me/](https://www.neerajgaur.me/)
+I'm a passionate **Frontend Developer** specializing in creating intuitive and visually appealing user interfaces. As a recent graduate, I'm focused on modern web technologies with expertise in **React**, **Next.js**, and **TypeScript**. Currently expanding my full-stack capabilities with the **MERN stack** to deliver complete web solutions.
 
-- 📫 How to reach me **neerajgaur8448@gmail.com**
+**What drives me:** Building pixel-perfect interfaces, exploring cutting-edge technologies, and solving complex problems through clean, efficient code.
 
-- 📄 Know about my experiences [https://res.cloudinary.com/dathv1j1q/image/upload/v1750596756/cnxeyrjzk2kkddj4z0os.png](https://res.cloudinary.com/dathv1j1q/image/upload/v1750596756/cnxeyrjzk2kkddj4z0os.png)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/neeraj-gaur-a913b9238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neeraj-gaur-a913b9238" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neeraj110&show_icons=true&locale=en&layout=compact" alt="neeraj110" /></p>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neeraj110&show_icons=true&locale=en" alt="neeraj110" /></p>
+### Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj110&" alt="neeraj110" /></p>
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neeraj110&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj110&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neeraj110&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=neeraj110&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://www.neerajgaur.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neeraj-gaur-a913b9238)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neerajgaur8448@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://res.cloudinary.com/dathv1j1q/image/upload/v1750596756/cnxeyrjzk2kkddj4z0os.png)
+
+</div>
+
+---
+
+<div align="center">
+  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+</div>
+
+<div align="center">
+  
+![Snake animation](https://github.com/neeraj110/neeraj110/blob/output/github-contribution-grid-snake.svg)
+
+</div>
