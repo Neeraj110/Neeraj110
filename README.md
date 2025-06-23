@@ -1,11 +1,8 @@
 <div align="center">
   <h1>👋 Hi, I'm Neeraj Gaur</h1>
-  <h3>Frontend Developer | MERN Stack Enthusiast | AI Integration Specialist</h3>
+  <h3>Frontend Developer | MERN Stack Enthusiast </h3>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=neeraj110&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
 
 ---
 
@@ -88,3 +85,6 @@ I'm a passionate **Frontend Developer** specializing in creating intuitive and v
   <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=neeraj110&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
